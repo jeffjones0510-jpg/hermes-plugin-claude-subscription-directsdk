@@ -12,6 +12,10 @@ EXPECTED = {
     'claude-opus-5[1m]': 1_000_000,
     'claude-opus-4-8[1m]': 1_000_000,
     'claude-fable-5-1[1m]': 1_000_000,
+    'claude-fable-5[1m]': 1_000_000,
+    'claude-opus-4-7[1m]': 1_000_000,
+    'claude-opus-4-6[1m]': 1_000_000,
+    'claude-sonnet-5-5[1m]': 1_000_000,
 }
 
 

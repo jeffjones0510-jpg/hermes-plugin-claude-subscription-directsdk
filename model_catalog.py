@@ -6,6 +6,10 @@ CONTEXT_WINDOWS = {
     'claude-opus-5': 1_000_000,
     'claude-opus-4-8': 1_000_000,
     'claude-fable-5-1': 1_000_000,
+    'claude-fable-5': 1_000_000,
+    'claude-opus-4-7': 1_000_000,
+    'claude-opus-4-6': 1_000_000,
+    'claude-sonnet-5-5': 1_000_000,
 }
 # Families that 400 on ``thinking: {"type": "disabled"}`` (the same contract Hermes core keeps
 # in agent/anthropic_adapter.py). A caller's disable is omitted for them: thinking stays on at
